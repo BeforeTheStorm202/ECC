@@ -1,0 +1,12 @@
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Cryptography\Projects\AES\ECC\obj\Debug\ECC.csproj.AssemblyReference.cache
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Cryptography\Projects\AES\ECC\obj\Debug\ECC.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Cryptography\Projects\AES\ECC\obj\Debug\ECC.Properties.Resources.resources
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Cryptography\Projects\AES\ECC\obj\Debug\ECC.csproj.GenerateResource.cache
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Cryptography\Projects\AES\ECC\obj\Debug\ECC.csproj.CoreCompileInputs.cache
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Cryptography\Projects\AES\ECC\bin\Debug\ECC.exe.config
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Cryptography\Projects\AES\ECC\bin\Debug\ECC.exe
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Cryptography\Projects\AES\ECC\bin\Debug\ECC.pdb
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Cryptography\Projects\AES\ECC\obj\Debug\ECC.ECC.resources
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Cryptography\Projects\AES\ECC\obj\Debug\ECC.csproj.CopyComplete
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Cryptography\Projects\AES\ECC\obj\Debug\ECC.exe
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Cryptography\Projects\AES\ECC\obj\Debug\ECC.pdb
